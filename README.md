@@ -10,5 +10,5 @@ File List:
 
 |      |          File          |              Function              |
 | :--: | :--------------------: | :--------------------------------: |
-|  1   | ZED_Obstacle_Detection | Capture obstacles with ZED2 camera |
+|  1   | ZED_Obstacle_Detection | Detect obstacles with ZED2 camera |
 
