@@ -11,4 +11,5 @@ File List:
 |      |          File          |              Function              |
 | :--: | :--------------------: | :--------------------------------: |
 |  1   | ZED_Obstacle_Detection | Capture obstacles with ZED2 camera |
+|  2   |      2D_planning       | 2-D path planning using RRT & APF  |
 
