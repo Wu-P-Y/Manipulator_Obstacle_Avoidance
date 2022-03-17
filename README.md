@@ -12,5 +12,5 @@ File List:
 | :--: | :--------------------: | :--------------------------------: |
 |  1   | ZED_Obstacle_Detection | Capture obstacles with ZED2 camera |
 |  2   |      2D_planning       | 2-D path planning using RRT & APF  |
-
+|  3   |      move_sawyer       | scripts to move sawyer manipulator |
 
